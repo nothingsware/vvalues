@@ -12,15 +12,137 @@
     "image": "https://cdn.dahoodtrades.com/items/YY4byFYM9zYsLrdBUgDLOd7cdAWOjP7bOTRRYsLo.gif"
   },
     "rings": {
-    "name": "Rings  Stomp",
+    "name": "Rings Stomp",
     "value": "$250",
     "rarity": "uncommon",
     "image": "https://cdn.dahoodtrades.com/items/3t5nDuEbb5KfBsoIZW9fRCRfO0MM4Nh26zCufXQr.gif"
   },
     "deletion": {
     "name": "Deletion Stomp",
-    "value": "$150",
-    "rarity": "Common",
+    "value": "$350",
+    "rarity": "Rare",
     "image": "https://cdn.dahoodtrades.com/items/tuz91YbHEkTOliv2vixE9ZqUDc2Vd0BsifEb5d4O.gif"
+  },
+        "portal": {
+    "name": "Portal Stomp",
+    "value": "$500",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/4R8qpmWJZucUVBf2LiU0ajDqxULFAYLTFahrNvBd.gif"
+  },
+         "rizzler": {
+    "name": "Rizzler Stomp",
+    "value": "$650",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/2KtFX07uTBsiZ4Y9JrkkRjrR0MaHDAzAXMSbrp1y.gif"
+  },
+         "thanos": {
+    "name": "Thanos Stomp",
+    "value": "$750",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/I6ZoVgQBwc40QMTiXIeMlp1zJlnZV8PWynq16pr4.gif"
+  },
+           "money": {
+    "name": "Money Stomp",
+    "value": "$775",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/wSZ1atfWKIDyvpFCZuZn9uqsrsmkYmqZZQ8FRern.gif"
+  },
+           "ghost": {
+    "name": "Ghost Stomp",
+    "value": "$800",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/FEPeyUvdxWXaYKSxgMCvLOrKt0IRToTjlUqYrM68.gif"
+  },
+           "ice capsule": {
+    "name": "Ice Capsule Stomp",
+    "value": "$825",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/urFV8ukc576VfqBB6ejcY5nQoFN247lZdxYsRUwv.gif"
+  },
+          "starlight": {
+    "name": "Starlight Stomp",
+    "value": "$1,750",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/Eg4EvXDwlT0oWBZD9QwBSgZICZksUN64R03jDpQG.gif"
+  },
+           "cage": {
+    "name": "Despair Cage Stomp",
+    "value": "$2,250",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/3MLfxkAa3q9fjNlzqrGuAYs3dTDAYq713H408wQl.gif"
+  },
+           "charm": {
+    "name": "Charm Stomp",
+    "value": "$2,350",
+    "rarity": "Epic",
+    "image": "https://cdn.dahoodtrades.com/items/xrdb0NITC0bGgspkFYSAnLcKc8PSxFzPLxhGR6GU.gif"
+  },
+
+               "d4c": {
+    "name": "D4C Stomp",
+    "value": "$2,550",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/7tleKXEBCdNvxcAFzzUdzkr0Rnb95TcA2h48jTW3.gif"
+  },
+
+
+               "ufo": {
+    "name": "UFO Stomp",
+    "value": "$3,550",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/tmncuk5ilzyHemmxyNWmASxY39T8wbVcotUekCkU.gif"
+  },
+                       "kizz": {
+    "name": "Kizzaro Stomp",
+    "value": "$3,650",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/RcSCLI2EmpvxFLzdLOvY7LTFLerE5Znme9xCzpmd.gif"
+  },
+    
+                   "cherish": {
+    "name": "Cherish Stomp",
+    "value": "$3,750",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/0lAmRBIfv6vDgAJ5OPZ88TkmyvKftyWExiMzVCBA.gif"
+  },
+
+                   "heaven": {
+    "name": "Heaven Stomp",
+    "value": "$10,550",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/xCOwDEJRYGLGVz2BPzae2TSGvEgiR6d50GXI6yUC.gif"
+  },
+                       "destroyer": {
+    "name": "Destroyer Stomp",
+    "value": "$35,500",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/wfqzYeMmC91MnJuFLVofJyexWdH4R7FawZcsdf0K.gif"
+  },
+                       "lotus": {
+    "name": "Lotus Stomp",
+    "value": "$22,250",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/Bhv1IquKvvNqXJ3oTJjOSzlWPRCJUJXeRp6HP2E6.gif"
+  },
+
+                       "spirit": {
+    "name": "Spirit Stomp",
+    "value": "$25,350",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/25qHPErHVUTC1tbaHj41VmAJCTQ9bbAaQPxH13DG.gif"
+  },
+
+                           "plushy": {
+    "name": "Plushy Stomp",
+    "value": "$21,150",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/tg0Sw5SZBGHFFXidYepfPZ8YxgYId2lFIyIY3Rxu.gif"
+  },
+
+                           "megalodon": {
+    "name": "Megalodon Stomp",
+    "value": "$32,540",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/thaSeJEYf2g4AN8HyKqVZ2DjtZEFywPG2puT1KKi.gif"
   },
 }
