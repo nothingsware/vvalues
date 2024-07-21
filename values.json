@@ -2,13 +2,13 @@
   "undead": {
     "name": "Undead Set",
     "value": "$40,000",
-    "rarity": "legendary",
+    "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/dYv7arK0lskyROPmkChAvvHN4YJIESzpo6DQChNR.png"
   },
   "ninja": {
     "name": "Ninja Set",
     "value": "$34,500",
-    "rarity": "epic",
+    "rarity": "Epic",
     "image": "https://cdn.dahoodtrades.com/items/v26bzzq1L8GKZShBkbJ2TIUjgk1Sj9V8QPXyX9L8.png"
   },
   "penguin": {
@@ -23,129 +23,120 @@
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/JD7gGUGacHOI9UrUrBvtk51h4NChem1SZRxbm5wG.png"
   },
-    "candy": {
+  "candy": {
     "name": "Candy Set",
     "value": "$31,550",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/PMIt5cwXaeq7xjFg5sZBc1sEbbhnCw1hsU4gZGnb.png"
   },
-    "cartoon": {
-    "name": "Candy Set",
+  "cartoon": {
+    "name": "Cartoon Set",
     "value": "$15,000",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/OANXZfKD8q4J1kYEEKEhoJCFctcuQVFuARQcYLvt.png"
   },
-    "gpo": {
+  "gpo": {
     "name": "GPO Tact",
     "value": "$16,400",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/n9egxX8L2V6a3khPKI1JssD4AgpOV2CcbTeVnba9.png"
   },
-    "galactic": {
+  "galactic": {
     "name": "Galactic Set",
     "value": "$17,550",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/yUPnXZCSgjfiOS1hycnftGIWI08hVKjZiXMlM0mn.png"
   },
-    "hero": {
+  "hero": {
     "name": "Hero Set",
     "value": "$18,550",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/eSpiTPFu6GrFLH9Y0zqqz4jGobpDGOulANhFVBNq.png"
   },
-    "halloween": {
-    "name": "Halloween",
+  "halloween": {
+    "name": "Halloween Set",
     "value": "$23,950",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/2a8I3D2F0X8i0viDvsU8jveFupDcudc2yxhbAyj4.png"
   },
-     "hoodmas": {
-    "name": "Hoodmas",
+  "hoodmas": {
+    "name": "Hoodmas Set",
     "value": "$5,950",
     "rarity": "Epic",
     "image": "https://cdn.dahoodtrades.com/items/paOvCSqkz976GxaTBYBL4RXSJ8TKwZRtUgF6wXc7.png"
   },
-  
   "icedout": {
     "name": "Iced Out Set",
     "value": "$46,500",
     "rarity": "Exclusive",
-    "image": "https://cdn.dahoodtrades.com/items/kNRcPPuvhKjv6mcNHjlPJzPCISBVVq7RginKCOh7.png, https://cdn.dahoodtrades.com/items/kpkSnoNNKwRBNDSkYtWgEKhZDp5Tmt6wsjZitK9C.png"
+    "image": "https://cdn.dahoodtrades.com/items/kNRcPPuvhKjv6mcNHjlPJzPCISBVVq7RginKCOh7.png"
   },
-
-    "love": {
+  "love": {
     "name": "Love Set",
     "value": "$22,100",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/t8CTflfgJZeRhqolEeim0lLtvGpAMRuMHtwATybe.png"
   },
-
-     "metal": {
+  "metal": {
     "name": "Metal Set",
     "value": "$28,935",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/7g3k1XDPryH0y4D6yuvNIV1NVR1ulty2437RVHYi.png"
   },
-  
-   "numbers": {
+  "numbers": {
     "name": "Numbers Tact",
     "value": "$32,210",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/DG0lIu4dfqtLGmJtQZQBPiH9fM4yS8p7EzZdCdZa.png"
   },
-   "portal": {
+  "portal": {
     "name": "Portal Set",
     "value": "$25,610",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/DglY9hmbLHaqg7UZXnGuCtj6pbsObYzGya5WB3hW.png"
   },
-   "ruby": {
+  "ruby": {
     "name": "Ruby Set",
     "value": "$37,580",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/plw2SG6RIECEyHBq9NRFCMZogQiINYzppJ27F7Xn.png"
   },
-    "wildwest": {
+  "wildwest": {
     "name": "Wild West Set",
     "value": "$8,580",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/qpJ6Plx3lHd8ljXY8bsQzNdx4xrperyZ3S5zw43i.png"
   },
-    "8bit": {
+  "8bit": {
     "name": "8BIT Set",
     "value": "$29,690",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/3T6kvrF6lSeFD4aHAoNSYqAET7m4OhFdNDWYFrJN.png"
   },
-
-    "redskull": {
+  "redskull": {
     "name": "Red Skull Set",
     "value": "$29,690",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/sSWddq888FXt6IsYIwD1V0lve56pKlOodsczYi86.png"
   },
-
-      "heaven": {
+  "heaven": {
     "name": "Heaven Set",
     "value": "$49,750",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/S2PgElGJHUTxGm60ClpAIveUvRgatQKXop1mmLmw.png"
   },
-
-      "goldenage": {
-    "name": "Golden Age",
+  "goldenage": {
+    "name": "Golden Age Set",
     "value": "$56,990",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/qe7cpeJamKkboWLUzJc3tpvJBgLYP9RutZ79ydLZ.png"
   },
-
-      "kitty": {
+  "kitty": {
     "name": "Kitty Set",
     "value": "$27,750",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/GcuCROmvOOzJ65l8PM9I8mRkbyAaca5q28qFqHqM.png"
   },
-
   "military": {
     "name": "Military Set",
     "value": "$29,575",
