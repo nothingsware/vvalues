@@ -20,12 +20,24 @@
   "gothic": {
     "name": "Gothic Set",
     "value": "$36,750",
-    "rarity": "rare",
+    "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/JD7gGUGacHOI9UrUrBvtk51h4NChem1SZRxbm5wG.png"
+  },
+    "candy": {
+    "name": "Candy Set",
+    "value": "$31,550",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/PMIt5cwXaeq7xjFg5sZBc1sEbbhnCw1hsU4gZGnb.png"
+  },
+    "cartoon": {
+    "name": "Candy Set",
+    "value": "$15,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/OANXZfKD8q4J1kYEEKEhoJCFctcuQVFuARQcYLvt.png"
   },
   "military": {
     "name": "Military Set",
-    "value": "$27,500",
+    "value": "$29,575",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/9jZZ3ds4lp7QfVurNltdSZ7XNY4wg41k6vxRvUhK.png"
   }
