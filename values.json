@@ -35,6 +35,25 @@
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/OANXZfKD8q4J1kYEEKEhoJCFctcuQVFuARQcYLvt.png"
   },
+    "gpo": {
+    "name": "GPO Tact",
+    "value": "$16,400",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/n9egxX8L2V6a3khPKI1JssD4AgpOV2CcbTeVnba9.png"
+  },
+    "galactic": {
+    "name": "Galactic Set",
+    "value": "$17,550",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/yUPnXZCSgjfiOS1hycnftGIWI08hVKjZiXMlM0mn.png"
+  },
+    "hero": {
+    "name": "Hero Set",
+    "value": "$18,550",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/eSpiTPFu6GrFLH9Y0zqqz4jGobpDGOulANhFVBNq.png"
+  },
+  
   "military": {
     "name": "Military Set",
     "value": "$29,575",
