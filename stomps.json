@@ -1,8 +1,26 @@
 {
-"military": {
-    "name": "Military Set",
-    "value": "$29,575",
-    "rarity": "Exclusive",
-    "image": "https://cdn.dahoodtrades.com/items/9jZZ3ds4lp7QfVurNltdSZ7XNY4wg41k6vxRvUhK.png"
-  }
+"sero": {
+    "name": "Sero Stomp",
+    "value": "$150",
+    "rarity": "Common",
+    "image": "https://cdn.dahoodtrades.com/items/ZbXjA5xIlEdUNoCTNcZBB11jmsbDKuvBwGugea1w.gif"
+  },
+    "sleepy": {
+    "name": "Sleepy Stomp",
+    "value": "$200",
+    "rarity": "Common",
+    "image": "https://cdn.dahoodtrades.com/items/YY4byFYM9zYsLrdBUgDLOd7cdAWOjP7bOTRRYsLo.gif"
+  },
+    "rings": {
+    "name": "Rings  Stomp",
+    "value": "$250",
+    "rarity": "uncommon",
+    "image": "https://cdn.dahoodtrades.com/items/3t5nDuEbb5KfBsoIZW9fRCRfO0MM4Nh26zCufXQr.gif"
+  },
+    "deletion": {
+    "name": "Deletion Stomp",
+    "value": "$150",
+    "rarity": "Common",
+    "image": "https://cdn.dahoodtrades.com/items/tuz91YbHEkTOliv2vixE9ZqUDc2Vd0BsifEb5d4O.gif"
+  },
 }
