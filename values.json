@@ -1,5 +1,4 @@
 {
-  
   "undead": {
     "name": "Undead Set",
     "value": "$40,000",
@@ -23,14 +22,11 @@
     "value": "$36,750",
     "rarity": "rare",
     "image": "https://cdn.dahoodtrades.com/items/JD7gGUGacHOI9UrUrBvtk51h4NChem1SZRxbm5wG.png"
- }
-
   },
   "military": {
     "name": "Military Set",
     "value": "$27,500",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/9jZZ3ds4lp7QfVurNltdSZ7XNY4wg41k6vxRvUhK.png"
- }
-  
+  }
 }
