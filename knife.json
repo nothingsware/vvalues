@@ -101,6 +101,75 @@
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/fgkjJTvdRPmYXE84n9fQGfdUpuuKHkY1596CD62f.png"
   },
+
+    "cartoon": {
+    "name": "Cartoon Knife",
+    "value": "$9,375",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/8yS6uVH6shvxBjch5FiaLApMqKBss4n8JD1IzVuE.png"
+  },
+
+    "rubys": {
+    "name": "Ruby Knife",
+    "value": "$12,345",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/YFcmd2weCObVa9rH47h5zsPXEFsXGCcp9dn6cWXi.png"
+  },
+
+    "gpok": {
+    "name": "GPO Prestige",
+    "value": "$35,760",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/p6x9htVwIbm1dpbBxfsGAZJsSgaWAcmmRe5cgqMp.png"
+  },
+      "gpres": {
+    "name": "GPO Knife",
+    "value": "$14,554",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/yFotNJjiaxI8iddjQPIzD7ndVARKcWRykDKFt3MR.png"
+  },
+        "dragon": {
+    "name": "Dragon Knife",
+    "value": "$45,570",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/VtqKA4BePreEjvoplARJtxTvifiCsobQRlxQ38n8.png"
+  },
+
+        "hallow": {
+    "name": "Halloween Knife",
+    "value": "$7,750",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/c707pSMe5LJDdKCLsEc6VZHUplXq0eOOSfS4dq0S.png"
+  },
+
+        "Banana": {
+    "name": "Banana Knife",
+    "value": "$8,785",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/eG6GKxDkbzZtlwmLCWWElMpZJ8anORbZT20xoKzq.png"
+  },
+
+        "Golden Age Tanto Knife": {
+    "name": "GPO Knife",
+    "value": "$39,975",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/gUrKH7nxSntklMAx2AxvHUDkhm2ZOcxt5FWPnsVD.png"
+  },
+
+       "stars": {
+    "name": "Stars Knife",
+    "value": "$8,287",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/Ibx3qBA7lYKi0h1nNLRRSAyhqADZejLv0fy5oaf5.png"
+  },
+
+         "king": {
+    "name": "King Karambit Knife",
+    "value": "$52,575",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/j05DwYs4R36XBD5XqlHPU0IZfecTbNoUEHRZO2PW.png"
+  },
+  
     "dual": {
     "name": "Dual Bayonets Knife",
     "value": "$9,750",
