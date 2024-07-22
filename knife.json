@@ -1,1 +1,134 @@
-
+{
+  "rbg": {
+    "name": "RBG Butterfly Knife",
+    "value": "$45,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/kn5XoOC6pyonDwzF7JKnGmVi4OVg0DwRH7r9YalY.png"
+  },
+  "gothic": {
+    "name": "Gothic Knife",
+    "value": "$15,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/dupXAA292W1SLMcBXhFxJF05nJ6ebfk5xlvvqS0g.png"
+  },
+  "peg": {
+    "name": "Penguin Ice Cream Knife",
+    "value": "$13,500",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/GiueQYDEKmZSXYlWKLjNDShNVhria6l3XQ8W58Df.png"
+  },
+  "blue": {
+    "name": "Blue Dagger Knife",
+    "value": "$18,500",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/WbA6dFxlw5zbZN12ZStSJrXV1sTOtWH9IkAvFwtW.png"
+  },
+  "red": {
+    "name": "Red Dagger Knife",
+    "value": "$18,300",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/nDMG8nRegugNslpfkWnhU6RyUlUi69k6culBrctG.png"
+  },
+  "xmas": {
+    "name": "XMAS Knife",
+    "value": "$11,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/45K1ln405gChBDcWlcIXmSkBn8NhIabWG4yTpjrO.png"
+  },
+  "shadow": {
+    "name": "Shadow Knife",
+    "value": "$10,450",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/3E0OM5d9JgkCVjrbliSg0yA8FUb0s0v9AuKxNoUA.png"
+  },
+  "raygun": {
+    "name": "Raygun Knife",
+    "value": "$12,600",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/EuBp1hWIWZMPadZaKHk9E0t7Mv67tUoN3gCdmQ3b.png"
+  },
+  "portal": {
+    "name": "Portal Knife",
+    "value": "$13,350",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/DaUQ8yfoEZJTYyOg3Ued59yxn2raADDZvi2ncYJ9.png"
+  },
+  "mili": {
+    "name": "Military Knife",
+    "value": "$10,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/S4r1t6JNhsTTFVBucZ18WPQ3gzvx6JetQ320imSE.png"
+  },
+  "Love Kukri": {
+    "name": "Love Kukri Knife",
+    "value": "$9,200",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/Y4vyEB6V6cozZfgsV1juJrx3QoDeVC9tdpxJ1H2y.png"
+  },
+  "LoveK": {
+    "name": "Love Knife",
+    "value": "$7,500",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/J9t698R1KPvHU0aLRti5ISxis2Y3ABc6GjsqCKZH.png"
+  },
+  "galaxyk": {
+    "name": "Galaxy Knife",
+    "value": "$165,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/LQ2NGf0dK4OuBdoiuUfxEIeAfUJbktRstICFL8s8.png"
+  },
+  "spacered": {
+    "name": "Galactic Red",
+    "value": "$36,675",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/q3oN7vOWjhf1d8KQvLk7OKpskw6XtY0eDXb4TWvW.png"
+  },
+  "space": {
+    "name": "Galactic",
+    "value": "$25,850",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/2Ii1dKMqsLxNeGD6efXFQgBLe9PfwLw7Mkf6z4NL.png"
+  },
+  "cupidk": {
+    "name": "Cupid Knife",
+    "value": "$17,425",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/A04WIIJIvI7zZ9lZlExfxOX89mwCgp6jHIZCM5iu.png"
+  },
+  "candykk": {
+    "name": "Candy Knife",
+    "value": "$8,000",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/fgkjJTvdRPmYXE84n9fQGfdUpuuKHkY1596CD62f.png"
+  },
+    "dual": {
+    "name": "Dual Bayonets Knife",
+    "value": "$9,750",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/5fbLg2270vZhbgoJb68HRU2YMrNFxIS3dYh7ZK8I.png"
+  },
+    "undead": {
+    "name": "Undead  Knife",
+    "value": "$7,750",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/O4vMH1T7mr9fzNABSvN0LTuvKuI3PvDqGYPYkgov.png"
+  },
+    "wild": {
+    "name": "Wild West Knife",
+    "value": "$10,155",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/5ksPI8dA1GSKr4OENShLf4mWhJPWaxMBhknu4Tyl.png"
+  },
+  "dual": {
+    "name": "Dual Bayonets Knife",
+    "value": "$9,750",
+    "rarity": "Legendary",
+    "image": "https://cdn.dahoodtrades.com/items/5fbLg2270vZhbgoJb68HRU2YMrNFxIS3dYh7ZK8I.png"
+  },
+  "rgbd": {
+    "name": "RGB Dual Bayonets Knife",
+    "value": "$75,375",
+    "rarity": "Exclusive",
+    "image": "https://cdn.dahoodtrades.com/items/WsD7mBo0l5ycZVvEys2X42RQI1vf7pusbEqff0fQ.gif"
+  }
+}
