@@ -137,41 +137,40 @@
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/thaSeJEYf2g4AN8HyKqVZ2DjtZEFywPG2puT1KKi.gif"
   },
-    "soul": {
+  "soul": {
     "name": "Soul Taker Stomp",
     "value": "$52,540",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/ctmnnMgl9Ce8YisS6sAzaC5hUn8iRtAHxGJtF2l7.gif"
-  }
-    "yggdrasil": {
+  },
+  "yggdrasil": {
     "name": "Yggdrasil Stomp",
     "value": "$45,850",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/t9662Y8MXEDjjy8evUJ61qvuKKOwCMP06lPsVvD5.gif"
   },
-      "susanoo": {
+  "susanoo": {
     "name": "Susanoo Stomp",
     "value": "$65,540",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/l9qujBUZIRGogXxID7bYmH5tHb8AL8xKzP4O5nHk.gif"
   },
-       "atomic": {
+  "atomic": {
     "name": "Atomic Stomp",
     "value": "$75,350",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/xToOIdCCu0HZVo9pEoPWs3FBzVa2Pbj7CaGoPpoK.gif"
   },
-       "skyfall": {
-    "name": "skyfall Stomp",
+  "skyfall": {
+    "name": "Skyfall Stomp",
     "value": "$70,000",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/OpU4wwyUwxrBj8F9yZ2OS6lvdpKCRO7ESiDWFyrm.gif"
   },
-
-       "rune": {
+  "rune": {
     "name": "Rune Stomp",
     "value": "$95,250",
     "rarity": "Exclusive",
     "image": "https://cdn.dahoodtrades.com/items/GkQNSDqg0Puu27dFBWIuRi7OX029377EfQKtcou1.gif"
-  },
+  }
 }
