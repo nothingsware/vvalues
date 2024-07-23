@@ -53,7 +53,7 @@
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/DaUQ8yfoEZJTYyOg3Ued59yxn2raADDZvi2ncYJ9.png"
   },
-  "mili": {
+  "Military": {
     "name": "Military Knife",
     "value": "$10,000",
     "rarity": "Legendary",
@@ -77,13 +77,13 @@
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/LQ2NGf0dK4OuBdoiuUfxEIeAfUJbktRstICFL8s8.png"
   },
-  "spacered": {
+  "Galacticred": {
     "name": "Galactic Red",
     "value": "$36,675",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/q3oN7vOWjhf1d8KQvLk7OKpskw6XtY0eDXb4TWvW.png"
   },
-  "space": {
+  "Galactic": {
     "name": "Galactic",
     "value": "$25,850",
     "rarity": "Legendary",
@@ -95,7 +95,7 @@
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/A04WIIJIvI7zZ9lZlExfxOX89mwCgp6jHIZCM5iu.png"
   },
-  "candykk": {
+  "candy": {
     "name": "Candy Knife",
     "value": "$8,000",
     "rarity": "Legendary",
@@ -116,13 +116,13 @@
     "image": "https://cdn.dahoodtrades.com/items/YFcmd2weCObVa9rH47h5zsPXEFsXGCcp9dn6cWXi.png"
   },
 
-    "gpok": {
+    "gpoprestige": {
     "name": "GPO Prestige",
     "value": "$35,760",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/p6x9htVwIbm1dpbBxfsGAZJsSgaWAcmmRe5cgqMp.png"
   },
-      "gpres": {
+      "gpo": {
     "name": "GPO Knife",
     "value": "$14,554",
     "rarity": "Legendary",
@@ -149,8 +149,8 @@
     "image": "https://cdn.dahoodtrades.com/items/eG6GKxDkbzZtlwmLCWWElMpZJ8anORbZT20xoKzq.png"
   },
 
-        "Golden Age Tanto Knife": {
-    "name": "GPO Knife",
+        "Tanto Knife": {
+    "name": "Golden Age Tanto Knife",
     "value": "$39,975",
     "rarity": "Legendary",
     "image": "https://cdn.dahoodtrades.com/items/gUrKH7nxSntklMAx2AxvHUDkhm2ZOcxt5FWPnsVD.png"
